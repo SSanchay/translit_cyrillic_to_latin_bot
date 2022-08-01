@@ -5,6 +5,6 @@ How to run:
 - add TOKEN from @BotFather to dockerfile
 
 ```
-docker build -t tdtranslit .
+docker build -t tgtranslit .
 docker run -d -p 80:80 tgtranslit
 ```
